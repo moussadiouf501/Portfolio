@@ -10266,7 +10266,7 @@ textarea.form-control {
     background: #f8f8f8; }
 
   
-    @media (max-width: 400px) {
+    @media (max-width: 412px) {
     #petit_taille_text{
         color: #000;
         text-align: center;
@@ -10290,7 +10290,7 @@ textarea.form-control {
       display: none;
     }
   }
-  @media (min-width: 401px) {
+  @media (min-width: 412px) {
     #petit_taille_text{
         color: #000;
     }
