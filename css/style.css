@@ -10265,10 +10265,7 @@ textarea.form-control {
     border: none;
     background: #f8f8f8; }
 
-    .text div{
-       justify-content: center;
-    }
-
+  
     @media (max-width: 400px) {
     #petit_taille_text{
         color: #000;
@@ -10301,6 +10298,8 @@ textarea.form-control {
       color: #000;
       font-size: 50px;
     }
+ 
+
    
   }
 
